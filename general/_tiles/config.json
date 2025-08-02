@@ -1,0 +1,51 @@
+{
+  "client": "_practice",
+  "slug": "tiles-sample",
+  "title": "tiles-sample",
+  "objectStorage": "http://localhost:8080",
+  "models": {
+    "3dtiles": [
+      {
+        "label": "MÔ HÌNH KHẢO SÁT/BỀ MẶT TỰ NHIÊN",
+        "path": "models/3d-tiles/QL26B-3/tileset.json",
+        "setCamera": true
+      },
+      {
+        "label": "MÔ HÌNH KHẢO SÁT/BỀ MẶT TỰ NHIÊN",
+        "path": "models/3d-tiles/QL26B-2/tileset.json"
+      },
+      {
+        "label": "MÔ HÌNH KHẢO SÁT/BỀ MẶT TỰ NHIÊN",
+        "path": "models/3d-tiles/QL26B-1/tileset.json"
+      }
+    ],
+    "gltf": [
+      {
+        "label": "MÔ HÌNH KHẢO SÁT/RANH GPMB",
+        "path": "models/glb/ranhGpmb.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": true,
+        "blenderCoor": [603660.544, 1384588.766, 16.226]
+      }
+    ],
+    "csv": [
+      {
+        "label": "MÔ HÌNH KHẢO SÁT/TIM TUYẾN KHẢO SÁT",
+        "path": "csv/timql26b.csv",
+        "height": 30
+      }
+    ]
+  },
+  "projectInfo": [
+    { "label": "TÊN DỰ ÁN", "value": "NÂNG CẤP, MỞ RỘNG ĐƯỜNG QUỐC LỘ 26B, TỈNH KHÁNH HÒA" },
+    { "label": "ĐƠN VỊ TƯ VẤN", "value": "CÔNG TY CỔ PHẦN TƯ VẤN T27" },
+    { "label": "NGƯỜI THỰC HIỆN", "value": "NGUYỄN TRUNG HỒ - TP. PHÒNG KHẢO SÁT" },
+    { "label": "THỜI GIAN", "value": "2025" },
+    { "label": "ĐỊA ĐIỂM", "value": "THỊ XÃ NINH HÒA, TỈNH KHÁNH HÒA" },
+    { "label": "MÔ HÌNH 3D", "value": "3D TILES" },
+    { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM)" },
+    { "label": "THIẾT BỊ KHẢO SÁT", "value": "MAVIC 3E" },
+    { "label": "HỆ TỌA ĐỘ", "value": "VN-2000/TM-3 108°15 - EPSG:9217" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "client": "GENERAL",
+  "slug": "RACH-XUYEN-TAM",
+  "title": "Rạch Xuyên Tâm",
+  "objectStorage": "https://assets.tsdev.host",
+  "models": {
+    "3dtiles": [
+      {
+        "label": "HIỆN TRẠNG RẠCH XUYÊN TÂM",
+        "path": "/models/3d-tiles/rachXuyenTam/tileset.json",
+        "setCamera": true
+      }
+    ]
+  },
+  "projectInfo": [
+    { "label": "NGƯỜI THỰC HIỆN", "value": "HUỲNH PHAN TÚY SƠN" },
+    { "label": "THỜI GIAN", "value": "2020" },
+    { "label": "ĐỊA ĐIỂM", "value": "QUẬN BÌNH THÀNH VÀ QUẬN GÒ VẤP, TP. HỒ CHÍ MINH" },
+    { "label": "MÔ HÌNH 3D", "value": "3D TILES" },
+    { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM)" },
+    { "label": "THIẾT BỊ KHẢO SÁT", "value": "MAVIC 2 PRO" },
+    { "label": "HỆ TỌA ĐỘ", "value": "VN-2000/TM-3 105°45 - EPSG:9210" }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "groups": {
+    "360": [
+      {
+        "title": "test 0",
+        "folder": "0-0001_v",
+        "tiled": true,
+        "position": { "x": 598823, "y": 1383929, "z": 7 },
+        "target": { "x": 598834, "y": 1383928, "z": 4 }
+      },
+      {
+        "title": "test 1",
+        "folder": "1-0002_v",
+        "tiled": true,
+        "position": { "x": 598823, "y": 1383929, "z": 7 },
+        "target": { "x": 598834, "y": 1383928, "z": 4 }
+      },
+      {
+        "title": "test 2",
+        "folder": "2-0003_v",
+        "tiled": true,
+        "position": { "x": 598823, "y": 1383929, "z": 7 },
+        "target": { "x": 598834, "y": 1383928, "z": 4 }
+      }
+    ],
+    "dansinh": [
+      {
+        "name": "DG01-1.webp",
+        "title": "Dân sinh 1-01",
+        "position": { "x": 604408.49, "y": 1384473.228, "z": 16 },
+        "target": { "x": 604398.416, "y": 1384477.179, "z": 15 }
+      },
+      {
+        "name": "DG01-2.webp",
+        "title": "Dân sinh 1-02",
+        "position": { "x": 604413, "y": 1384467, "z": 16 },
+        "target": { "x": 604432, "y": 1384449, "z": 15 }
+      },
+      {
+        "name": "DG02-1.webp",
+        "title": "Dân sinh 2-01",
+        "position": { "x": 604307, "y": 1384512, "z": 16 },
+        "target": { "x": 604289, "y": 1384519, "z": 15 }
+      },
+      {
+        "name": "DG02-2.webp",
+        "title": "Dân sinh 2-02",
+        "position": { "x": 604298, "y": 1384513, "z": 16 },
+        "target": { "x": 604293, "y": 1384494, "z": 15 }
+      },
+      {
+        "name": "DG02-3.webp",
+        "title": "Dân sinh 2-02",
+        "position": { "x": 604300, "y": 1384518, "z": 16 },
+        "target": { "x": 604302, "y": 1384523, "z": 15 }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "client": "GENERAL",
+  "slug": "LAGI",
+  "title": "Núi Nhọn",
+  "objectStorage": "https://assets.tsdev.host",
+  "models": {
+    "3dtiles": [
+      {
+        "label": "MÔ HÌNH HIỆN TRẠNG",
+        "path": "/models/3d-tiles/lagi-binh-thuan/tileset.json",
+        "setCamera": true
+      }
+    ]
+  },
+  "projectInfo": [
+    { "label": "NGƯỜI THỰC HIỆN", "value": "HUỲNH PHAN TÚY SƠN" },
+    { "label": "THỜI GIAN", "value": "2020" },
+    { "label": "ĐỊA ĐIỂM", "value": "THỊ XÃ LA GI, TỈNH BÌNH THUẬN" },
+    { "label": "MÔ HÌNH 3D", "value": "3D TILES" },
+    { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM)" },
+    { "label": "THIẾT BỊ KHẢO SÁT", "value": "MAVIC 2 PRO" },
+    { "label": "HỆ TỌA ĐỘ", "value": "VN-2000/TM-3 108°30 - EPSG:9218" }
+  ]
+}
