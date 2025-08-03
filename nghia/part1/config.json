@@ -1,0 +1,26 @@
+{
+  "client": "NGHIA",
+  "slug": "PART1",
+  "title": "PART1",
+  "objectStorage": "https://assets.tsdev.host",
+  "models": {
+    "3dtiles": [
+      {
+        "label": "MÔ HÌNH KHẢO SÁT/BỀ MẶT TỰ NHIÊN",
+        "path": "models/3d-tiles/part1/tileset.json",
+        "setCamera": true
+      }
+    ]
+  },
+  "projectInfo": [
+    { "label": "TÊN DỰ ÁN", "value": "THỬ NGHIỆM PART1" },
+    { "label": "ĐƠN VỊ TƯ VẤN", "value": "CÔNG TY CỔ PHẦN TƯ VẤN T27" },
+    { "label": "NGƯỜI THỰC HIỆN", "value": "NGUYỄN TRUNG HỒ - TP. PHÒNG KHẢO SÁT" },
+    { "label": "THỜI GIAN", "value": "2025" },
+    { "label": "ĐỊA ĐIỂM", "value": "THỊ XÃ NINH HÒA, TỈNH KHÁNH HÒA" },
+    { "label": "MÔ HÌNH 3D", "value": "3D TILES" },
+    { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM)" },
+    { "label": "THIẾT BỊ KHẢO SÁT", "value": "MAVIC 3E" },
+    { "label": "HỆ TỌA ĐỘ", "value": "VN-2000/TM-3 105°45 - EPSG:9210" }
+  ]
+}
