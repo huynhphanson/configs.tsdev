@@ -35,6 +35,14 @@
         "visible": true,
         "setCamera": true,
         "blenderCoor": [604384.006,1384491.547,11.5]
+      },
+      {
+        "label": "MÔ HÌNH BIM/CỐNG KM8+230",
+        "path": "models/glb/congKm8+230.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": true,
+        "blenderCoor": [603886.696, 1384566.353, 0]
       }
     ],
     "csv": [
