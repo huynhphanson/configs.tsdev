@@ -27,6 +27,14 @@
         "visible": true,
         "setCamera": true,
         "blenderCoor": [603660.544, 1384588.766, 16.226]
+      },
+      {
+        "label": "MÔ HÌNH BIM/TUYẾN CHÍNH",
+        "path": "models/glb/tuyenChinh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": true,
+        "blenderCoor": [604384.006,1384491.547,11.5]
       }
     ],
     "csv": [
