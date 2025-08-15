@@ -51,6 +51,14 @@
         "visible": true,
         "setCamera": true,
         "blenderCoor": [599897.330, 1383777.210, 0]
+      },
+      {
+        "label": "MÔ HÌNH BIM/BIỂN BÁO",
+        "path": "models/glb/bienBao.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": true,
+        "blenderCoor": [598114.593, 1384016.864, 3.167]
       }
     ],
     "csv": [
