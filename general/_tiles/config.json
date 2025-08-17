@@ -101,7 +101,7 @@
     { "label": "THỜI GIAN", "value": "2025" },
     { "label": "ĐỊA ĐIỂM", "value": "TỈNH KHÁNH HÒA" },
     { "label": "MÔ HÌNH 3D", "value": "3D TILES, IFC" },
-    { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM), BIM (.IFC" },
+    { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM), BIM (.IFC)" },
     { "label": "THIẾT BỊ KHẢO SÁT", "value": "MAVIC 3E" },
     { "label": "HỆ TỌA ĐỘ", "value": "VN-2000/TM-3 108°15 - EPSG:9217" }
   ]
