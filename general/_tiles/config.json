@@ -25,7 +25,7 @@
         "path": "models/glb/ranhGpmb.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [603660.544, 1384588.766, 16.226]
       },
       {
@@ -33,7 +33,7 @@
         "path": "models/glb/tuyenChinh.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [604384.006,1384491.547,11.5]
       },
       {
@@ -41,7 +41,7 @@
         "path": "models/glb/bienBao.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [598114.593, 1384016.864, 3.167]
       },
       {
@@ -49,7 +49,7 @@
         "path": "models/glb/vachSon.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [604618.611, 1384377.114, 13.071]
       },
       {
@@ -57,7 +57,7 @@
         "path": "models/glb/congKm8+230.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [603886.696, 1384566.353, 0]
       },
       {
@@ -65,7 +65,7 @@
         "path": "models/glb/congKm9+233.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [602890.913, 1384494.545, 0 ]
       },
       {
@@ -73,7 +73,7 @@
         "path": "models/glb/congKm13+616.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [599897.330, 1383777.210, 0]
       },
       {
@@ -81,7 +81,7 @@
         "path": "models/glb/danSinh.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [604514.221, 1384359.070, 17.021]
       }
     ],
