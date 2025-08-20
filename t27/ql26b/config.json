@@ -25,8 +25,64 @@
         "path": "models/glb/ranhGpmb.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
+        "setCamera": false,
         "blenderCoor": [603660.544, 1384588.766, 16.226]
+      },
+      {
+        "label": "TUYẾN CHÍNH/MÔ HÌNH ĐƯỜNG",
+        "path": "models/glb/tuyenChinh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [604384.006,1384491.547,11.5]
+      },
+      {
+        "label": "TUYẾN CHÍNH/BIỂN BÁO",
+        "path": "models/glb/bienBao.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [598114.593, 1384016.864, 3.167]
+      },
+      {
+        "label": "TUYẾN CHÍNH/VẠCH SƠN",
+        "path": "models/glb/vachSon.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [604618.611, 1384377.114, 13.071]
+      },
+      {
+        "label": "CỐNG/CỐNG KM8+230",
+        "path": "models/glb/congKm8+230.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [603886.696, 1384566.353, 0]
+      },
+      {
+        "label": "CỐNG/CỐNG KM9+233",
+        "path": "models/glb/congKm9+233.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [602890.913, 1384494.545, 0 ]
+      },
+      {
+        "label": "CỐNG/CỐNG KM13+616",
+        "path": "models/glb/congKm13+616.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [599897.330, 1383777.210, 0]
+      },
+      {
+        "label": "ĐƯỜNG DÂN SINH",
+        "path": "models/glb/danSinh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [604514.221, 1384359.070, 17.021]
       }
     ],
     "csv": [
@@ -40,11 +96,12 @@
   "projectInfo": [
     { "label": "TÊN DỰ ÁN", "value": "NÂNG CẤP, MỞ RỘNG ĐƯỜNG QUỐC LỘ 26B, TỈNH KHÁNH HÒA" },
     { "label": "ĐƠN VỊ TƯ VẤN", "value": "CÔNG TY CỔ PHẦN TƯ VẤN T27" },
-    { "label": "NGƯỜI THỰC HIỆN", "value": "NGUYỄN TRUNG HỒ - TP. PHÒNG KHẢO SÁT" },
+    { "label": "XỬ LÝ BAY CHỤP", "value": "NGUYỄN TRUNG HỒ" },
+    { "label": "QUẢN LÝ BIM", "value": "TÔ MINH HOÀNG" },
     { "label": "THỜI GIAN", "value": "2025" },
-    { "label": "ĐỊA ĐIỂM", "value": "THỊ XÃ NINH HÒA, TỈNH KHÁNH HÒA" },
-    { "label": "MÔ HÌNH 3D", "value": "3D TILES" },
-    { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM)" },
+    { "label": "ĐỊA ĐIỂM", "value": "TỈNH KHÁNH HÒA" },
+    { "label": "MÔ HÌNH 3D", "value": "3D TILES, IFC" },
+    { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM), BIM (.IFC)" },
     { "label": "THIẾT BỊ KHẢO SÁT", "value": "MAVIC 3E" },
     { "label": "HỆ TỌA ĐỘ", "value": "VN-2000/TM-3 108°15 - EPSG:9217" }
   ]
