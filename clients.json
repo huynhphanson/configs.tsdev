@@ -1,6 +1,6 @@
 {
   "t27": ["ql26b", "cau-tran-phu", "tl8b"],
-  "general": ["_tiles", "lagi", "lob", "rach-xuyen-tam", "pve-quang-ngai"],
+  "general": ["_glb", "_tiles", "lagi", "lob", "rach-xuyen-tam", "pve-quang-ngai"],
   "nghia": ["part1"],
   "testReal": ["ql26b", "_tiles", "part1"]
 }
