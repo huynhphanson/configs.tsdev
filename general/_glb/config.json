@@ -4,11 +4,14 @@
   "title": "glb-sample",
   "objectStorage": "http://localhost:8080",
   "models": {
-    "3dtiles": [
+    "gltf": [
       {
         "label": "MÔ HÌNH",
-        "path": "models/3d-tiles/tuyenChinh/tileset.json",
-        "setCamera": true
+        "path": "models/glb/tuyenChinh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [604384.006,1384491.547,11.5]
       }
     ]
   },
