@@ -6,12 +6,20 @@
   "models": {
     "gltf": [
       {
-        "label": "MÔ HÌNH",
+        "label": "TUYẾN CHÍNH",
         "path": "models/glb/tuyenChinh.glb",
         "clear": true,
         "visible": true,
         "setCamera": false,
         "blenderCoor": [604384.006,1384491.547,11.5]
+      },
+      {
+        "label": "VẠCH SƠN",
+        "path": "models/glb/vachSon.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [604618.611, 1384377.114, 13.071]
       }
     ]
   },
