@@ -22,14 +22,6 @@
         "blenderCoor": [604384.006,1384491.547,11.5]
       },
       {
-        "label": "GLB THỬ NGHIỆM",
-        "path": "models/glb/tuyenChinh1.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [0, 0, 0]
-      },
-      {
         "label": "TUYẾN CHÍNH/BIỂN BÁO",
         "path": "models/glb/bienBao.glb",
         "clear": true,
