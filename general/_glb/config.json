@@ -6,22 +6,6 @@
   "models": {
     "gltf": [
       {
-        "label": "CÂY XANH",
-        "path": "models/glb/cayXanh.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [0,0,0]
-      },
-      {
-        "label": "CHIẾU SÁNG",
-        "path": "models/glb/chieuSang.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [598115.164, 1384018.156, 4.023]
-      },
-      {
         "label": "MÔ HÌNH KHẢO SÁT/RANH GPMB",
         "path": "models/glb/ranhGpmb.glb",
         "clear": true,
