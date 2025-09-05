@@ -23,7 +23,7 @@
       },
       {
         "label": "GLTF THỬ NGHIÊM",
-        "path": "models/glb/tuyenChinh1.glb",
+        "path": "models/glb/tuyenChinh1.gltf",
         "clear": true,
         "visible": true,
         "setCamera": true,
