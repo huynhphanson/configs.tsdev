@@ -6,6 +6,11 @@
   "models": {
     "3dtiles": [
       {
+        "label": "TEST TILES",
+        "path": "models/3d-tiles/testTile/tileset.json",
+        "setCamera": false
+      },
+      {
         "label": "MÔ HÌNH KHẢO SÁT/BỀ MẶT TỰ NHIÊN",
         "path": "models/3d-tiles/QL26B-3/tileset.json",
         "setCamera": true
