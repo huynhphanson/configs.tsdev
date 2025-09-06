@@ -4,6 +4,13 @@
   "title": "glb-sample",
   "objectStorage": "http://localhost:8080",
   "models": {
+    "3dtiles": [
+      {
+        "label": "TEST TILES",
+        "path": "models/3d-tiles/testTile/tileset.json",
+        "setCamera": false
+      }
+    ],
     "gltf": [
       {
         "label": "GLB",
