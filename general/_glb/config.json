@@ -7,7 +7,7 @@
     "gltf": [
       {
         "label": "GLB",
-        "path": "models/glb/chieuSang.glb",
+        "path": "models/glb/chieuSang/chieuSang.gltf",
         "clear": true,
         "visible": true,
         "setCamera": false,
