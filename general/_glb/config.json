@@ -7,10 +7,10 @@
     "gltf": [
       {
         "label": "GLB",
-        "path": "models/glb/chieuSang/chieuSang.gltf",
+        "path": "models/glb/tuyenChinh/tuyenChinh.gltf",
         "clear": true,
         "visible": true,
-        "setCamera": false,
+        "setCamera": true,
         "blenderCoor": [0,0,0]
       }
     ]
