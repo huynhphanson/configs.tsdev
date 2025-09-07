@@ -6,8 +6,13 @@
   "models": {
     "3dtiles": [
       {
-        "label": "TEST TILES",
-        "path": "models/3d-tiles/testTile/tileset.json",
+        "label": "TUYẾN CHÍNH",
+        "path": "models/3d-tiles/tuyenChinh/tileset.json",
+        "setCamera": true
+      },
+      {
+        "label": "BIỂN BÁO",
+        "path": "models/3d-tiles/bienBao/tileset.json",
         "setCamera": false
       }
     ]
