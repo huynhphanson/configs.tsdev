@@ -10,16 +10,6 @@
         "path": "models/3d-tiles/testTile/tileset.json",
         "setCamera": false
       }
-    ],
-    "gltf": [
-      {
-        "label": "GLB",
-        "path": "models/glb/tuyenChinh/tuyenChinh.gltf",
-        "clear": true,
-        "visible": true,
-        "setCamera": true,
-        "blenderCoor": [0,0,0]
-      }
     ]
   },
   "projectInfo": [
