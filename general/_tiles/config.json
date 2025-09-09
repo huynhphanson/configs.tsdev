@@ -48,7 +48,7 @@
         "label": "TUYẾN CHÍNH/VẠCH SƠN",
         "path": "models/glb/vachSon.glb",
         "clear": true,
-        "visible": true,
+        "visible": false,
         "setCamera": false,
         "blenderCoor": [604618.611, 1384377.114, 13.071]
       },
