@@ -53,12 +53,20 @@
         "blenderCoor": [603886.696, 1384566.353, 0]
       },
       {
-        "label": "GLB",
+        "label": "CÂY XANH",
         "path": "models/glb/cayXanh.glb",
         "clear": true,
         "visible": true,
         "setCamera": false,
         "blenderCoor": [599998.755,1383782.450,4.511]
+      },
+      {
+        "label": "CHIẾU SÁNG",
+        "path": "models/glb/chieuSang.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [599998,1383700,0]
       },
       {
         "label": "CỐNG/CỐNG KM9+233",
