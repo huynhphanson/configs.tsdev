@@ -45,6 +45,14 @@
         "blenderCoor": [603886.696, 1384566.353, 0]
       },
       {
+        "label": "GLB",
+        "path": "models/glb/cayXanh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [604574.598,1384402.917,13.778]
+      },
+      {
         "label": "CỐNG/CỐNG KM9+233",
         "path": "models/glb/congKm9+233.glb",
         "clear": true,
