@@ -4,16 +4,14 @@
   "title": "glb-sample",
   "objectStorage": "http://localhost:8080",
   "models": {
-    "3dtiles": [
+    "gltf": [
       {
-        "label": "TUYẾN CHÍNH",
-        "path": "models/3d-tiles/tuyenChinh/tileset.json",
-        "setCamera": true
-      },
-      {
-        "label": "BIỂN BÁO",
-        "path": "models/3d-tiles/bienBao/tileset.json",
-        "setCamera": false
+        "label": "GLB",
+        "path": "models/glb/cayXanh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [604574.5986982208,1384402.917517701,13.77847429343017]
       }
     ]
   },
