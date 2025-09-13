@@ -10,7 +10,7 @@
         "path": "models/glb/cayXanh.glb",
         "clear": true,
         "visible": true,
-        "setCamera": false,
+        "setCamera": true,
         "blenderCoor": [604574.5986982208,1384402.917517701,13.77847429343017]
       }
     ]
