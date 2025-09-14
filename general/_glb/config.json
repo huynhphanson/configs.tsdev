@@ -6,12 +6,12 @@
   "models": {
     "gltf": [
       {
-        "label": "GLB",
-        "path": "models/glb/cayXanh.glb",
+        "label": "TUYẾN CHÍNH",
+        "path": "models/glb/tuyenChinh.glb",
         "clear": true,
         "visible": true,
         "setCamera": true,
-        "blenderCoor": [604574.5986982208,1384402.917517701,13.77847429343017]
+        "blenderCoor": [600000,1000000,0]
       }
     ]
   },
