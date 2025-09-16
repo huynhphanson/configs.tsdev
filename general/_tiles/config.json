@@ -29,6 +29,14 @@
         "blenderCoor": [603660.544, 1384588.766, 16.226]
       },
       {
+        "label": "CÂY XANH",
+        "path": "models/glb/cayXanh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": true,
+        "blenderCoor": [600000,1000000,0]
+      },
+      {
         "label": "TUYẾN CHÍNH/MÔ HÌNH ĐƯỜNG",
         "path": "models/glb/tuyenChinh.glb",
         "clear": true,
