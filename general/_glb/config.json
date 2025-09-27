@@ -19,7 +19,7 @@
         "clear": true,
         "visible": true,
         "setCamera": true,
-        "blenderCoor": [590000,1340000,0]
+        "blenderCoor": [600000,1000000,0]
       }
     ]
   },
