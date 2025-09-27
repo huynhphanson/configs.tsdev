@@ -19,7 +19,16 @@
         "clear": true,
         "visible": true,
         "setCamera": false
+      },
+      {
+        "label": "HOUSE",
+        "path": "models/glb/house.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false,
+        "blenderCoor": [0,0,0]
       }
+
     ]
   },
   "projectInfo": [
