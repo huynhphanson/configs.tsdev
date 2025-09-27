@@ -19,13 +19,6 @@
         "clear": true,
         "visible": true,
         "setCamera": false
-      },
-      {
-        "label": "CẦU SÔNG CHÒ",
-        "path": "models/glb/songCho.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false
       }
     ]
   },
