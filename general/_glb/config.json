@@ -18,8 +18,7 @@
         "path": "models/glb/chieuSang.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
-        "blenderCoor": [600000,1000000,0]
+        "setCamera": true
       }
     ]
   },
