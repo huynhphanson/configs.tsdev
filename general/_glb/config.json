@@ -10,8 +10,7 @@
         "path": "models/glb/tuyenChinh.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
-        "blenderCoor": [590000,1340000,0]
+        "setCamera": true
       },
       {
         "label": "CHIẾU SÁNG",
@@ -19,16 +18,7 @@
         "clear": true,
         "visible": true,
         "setCamera": false
-      },
-      {
-        "label": "HOUSE",
-        "path": "models/glb/house.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [0,0,0]
       }
-
     ]
   },
   "projectInfo": [
