@@ -12,6 +12,14 @@
         "visible": true,
         "setCamera": true,
         "blenderCoor": [590000,1340000,0]
+      },
+      {
+        "label": "CHIẾU SÁNG",
+        "path": "models/glb/chieuSang.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": true,
+        "blenderCoor": [590000,1340000,0]
       }
     ]
   },
