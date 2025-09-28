@@ -18,6 +18,13 @@
         "clear": true,
         "visible": true,
         "setCamera": false
+      },
+      {
+        "label": "CÂY XANH",
+        "path": "models/glb/cayXanh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false
       }
     ]
   },
