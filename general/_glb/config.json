@@ -15,6 +15,10 @@
       {
         "label": "CHIẾU SÁNG",
         "path": "models/glb/chieuSang.glb"
+      },
+      {
+        "label": "HẠ TÂNG NGDD",
+        "path": "models/glb/haTang.glb"
       }
     ]
   },
