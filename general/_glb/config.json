@@ -14,15 +14,15 @@
       },
       {
         "label": "CHIẾU SÁNG",
-        "path": "models/glb/chieuSang.glb",
+        "path": "models/glb/chieuSang.glb"
       },
       {
         "label": "CÂY XANH",
-        "path": "models/glb/cayXanh.glb",
+        "path": "models/glb/cayXanh.glb"
       },
       {
         "label": "HẠ TÂNG NGDD",
-        "path": "models/glb/haTang.glb",
+        "path": "models/glb/haTang.glb"
       }
     ]
   },
