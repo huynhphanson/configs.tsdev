@@ -4,11 +4,34 @@
   "title": "glb-sample",
   "objectStorage": "http://localhost:8080",
   "models": {
-    "3dtiles": [
+    "gltf": [
       {
-        "label": "3D TILES",
-        "path": "models/3d-tiles/output/tileset.json",
+        "label": "TUYẾN CHÍNH",
+        "path": "models/glb/tuyenChinh.glb",
+        "clear": true,
+        "visible": true,
         "setCamera": true
+      },
+      {
+        "label": "CHIẾU SÁNG",
+        "path": "models/glb/chieuSang.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false
+      },
+      {
+        "label": "CÂY XANH",
+        "path": "models/glb/cayXanh.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false
+      },
+      {
+        "label": "Cầu Sông Chò",
+        "path": "models/glb/cauSongCho.glb",
+        "clear": true,
+        "visible": true,
+        "setCamera": false
       }
     ]
   },
