@@ -15,10 +15,6 @@
       {
         "label": "CHIẾU SÁNG",
         "path": "models/glb/chieuSang.glb"
-      },
-      {
-        "label": "CÂY XANH",
-        "path": "models/glb/cayXanh.glb"
       }
     ]
   },
