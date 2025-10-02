@@ -31,7 +31,8 @@
         "path": "models/glb/cauSongCho.glb",
         "clear": true,
         "visible": true,
-        "setCamera": false
+        "setCamera": false,
+        "blenderCoor": [590000000, 1340000000, 0]
       }
     ]
   },
