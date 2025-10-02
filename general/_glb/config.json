@@ -10,7 +10,7 @@
         "path": "models/glb/haTang.glb",
         "clear": true,
         "visible": true,
-        "setCamera": false
+        "setCamera": true
       }
     ]
   },
