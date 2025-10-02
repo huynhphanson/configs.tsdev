@@ -19,6 +19,14 @@
       {
         "label": "HẠ TÂNG NGDD",
         "path": "models/glb/haTang.glb"
+      },
+      {
+        "label": "PL",
+        "path": "models/glb/PL.glb"
+      },
+      {
+        "label": "TS",
+        "path": "models/glb/TS.glb"
       }
     ]
   },
