@@ -6,27 +6,6 @@
   "models": {
     "gltf": [
       {
-        "label": "TUYẾN CHÍNH",
-        "path": "models/glb/tuyenChinh.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": true
-      },
-      {
-        "label": "CHIẾU SÁNG",
-        "path": "models/glb/chieuSang.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false
-      },
-      {
-        "label": "CÂY XANH",
-        "path": "models/glb/cayXanh.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false
-      },
-      {
         "label": "HẠ TÂNG NGDD",
         "path": "models/glb/haTang.glb",
         "clear": true,
