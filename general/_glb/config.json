@@ -17,6 +17,10 @@
         "path": "models/glb/chieuSang.glb"
       },
       {
+        "label": "VẠCH SƠN",
+        "path": "models/glb/vachSon.glb"
+      },
+      {
         "label": "HẠ TÂNG NGDD",
         "path": "models/glb/haTang.glb"
       },
