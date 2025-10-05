@@ -21,6 +21,10 @@
         "path": "models/glb/vachSon.glb"
       },
       {
+        "label": "CÂY XANH",
+        "path": "models/glb/cayXanh.glb"
+      },
+      {
         "label": "HẠ TÂNG NGDD",
         "path": "models/glb/haTang.glb"
       },
