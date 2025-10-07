@@ -38,23 +38,15 @@
         "clear": true,
         "visible": true,
         "setCamera": false,
-        "blenderCoor": [604384.006,1384491.547,11.5]
+        "blenderCoor": [600000,1000000,0]
       },
       {
-        "label": "TUYẾN CHÍNH/BIỂN BÁO",
+        "label": "BIỂN BÁO",
         "path": "models/glb/bienBao.glb",
         "clear": true,
         "visible": true,
         "setCamera": false,
         "blenderCoor": [598114.593, 1384016.864, 3.167]
-      },
-      {
-        "label": "TUYẾN CHÍNH/VẠCH SƠN",
-        "path": "models/glb/vachSon.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [604618.611, 1384377.114, 13.071]
       },
       {
         "label": "CỐNG/CỐNG KM8+230",
@@ -103,7 +95,7 @@
     { "label": "XỬ LÝ BAY CHỤP", "value": "NGUYỄN TRUNG HỒ" },
     { "label": "QUẢN LÝ BIM", "value": "TÔ MINH HOÀNG" },
     { "label": "THỜI GIAN", "value": "2025" },
-    { "label": "ĐỊA ĐIỂM", "value": "TỈNH KHÁNH HÒA" },
+    { "label": "ĐỊA ĐIỂM", "value": "KHÁNH HÒA" },
     { "label": "MÔ HÌNH 3D", "value": "3D TILES, IFC" },
     { "label": "ĐỊNH DẠNG DỮ LIỆU", "value": "3D TILES (.JSON, .B3DM), BIM (.IFC)" },
     { "label": "THIẾT BỊ KHẢO SÁT", "value": "MAVIC 3E" },

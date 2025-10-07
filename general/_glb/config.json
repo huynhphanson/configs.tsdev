@@ -6,68 +6,35 @@
   "models": {
     "gltf": [
       {
-        "label": "MÔ HÌNH KHẢO SÁT/RANH GPMB",
-        "path": "models/glb/ranhGpmb.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [603660.544, 1384588.766, 16.226]
-      },
-      {
-        "label": "TUYẾN CHÍNH/MÔ HÌNH ĐƯỜNG",
+        "label": "TUYẾN CHÍNH",
         "path": "models/glb/tuyenChinh.glb",
         "clear": true,
         "visible": true,
-        "setCamera": true,
-        "blenderCoor": [604384.006,1384491.547,11.5]
+        "setCamera": true
       },
       {
-        "label": "TUYẾN CHÍNH/BIỂN BÁO",
-        "path": "models/glb/bienBao.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [598114.593, 1384016.864, 3.167]
+        "label": "CHIẾU SÁNG",
+        "path": "models/glb/chieuSang.glb"
       },
       {
-        "label": "TUYẾN CHÍNH/VẠCH SƠN",
-        "path": "models/glb/vachSon.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [604618.611, 1384377.114, 13.071]
+        "label": "VẠCH SƠN",
+        "path": "models/glb/vachSon.glb"
       },
       {
-        "label": "CỐNG/CỐNG KM8+230",
-        "path": "models/glb/congKm8+230.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [603886.696, 1384566.353, 0]
+        "label": "CÂY XANH",
+        "path": "models/glb/cayXanh.glb"
       },
       {
-        "label": "CỐNG/CỐNG KM9+233",
-        "path": "models/glb/congKm9+233.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [602890.913, 1384494.545, 0 ]
+        "label": "HẠ TÂNG NGDD",
+        "path": "models/glb/haTang.glb"
       },
       {
-        "label": "CỐNG/CỐNG KM13+616",
-        "path": "models/glb/congKm13+616.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [599897.330, 1383777.210, 0]
+        "label": "PL",
+        "path": "models/glb/PL.glb"
       },
       {
-        "label": "ĐƯỜNG DÂN SINH",
-        "path": "models/glb/danSinh.glb",
-        "clear": true,
-        "visible": true,
-        "setCamera": false,
-        "blenderCoor": [604514.221, 1384359.070, 17.021]
+        "label": "TS",
+        "path": "models/glb/TS.glb"
       }
     ]
   },
