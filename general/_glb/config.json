@@ -2,7 +2,7 @@
   "client": "_practice",
   "slug": "glb-sample",
   "title": "glb-sample",
-  "objectStorage": "http://localhost:8080",
+  "objectStorage": "http://localhost:8080/_projects",
   "models": {
     "gltf": [
       {
